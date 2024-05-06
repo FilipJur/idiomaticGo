@@ -22,7 +22,7 @@ func exercise1() {
 }
 
 func exercise2() {
-	message := "Hi  and "
+	message := "Hi 👦 and 👩‍🦰"
 
 	fmt.Printf("%c\n", message[3])
 }
@@ -34,8 +34,8 @@ func exercise3() {
 		id        int
 	}
 	var arthur = Employee{
-		"arthur",
-		"morgan",
+		"Arthur",
+		"Morgan",
 		1,
 	}
 	var john = Employee{
