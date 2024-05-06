@@ -1,7 +1,6 @@
 package main
 
 func main() {
-
 	// Section 1: Slices and Append
 	/*
 		x := []int{1, 2, 3, 4, 5}
@@ -134,9 +133,49 @@ func main() {
 	*/
 
 	// Section 6: Structs
-	type person struct {
-		name string
-		age  string
-		pet  string
-	}
+	// var person struct {
+	// 	name string
+	// 	age  int
+	// 	pet  string
+	// }
+	// bob := person{
+	// 	age:  30,
+	// 	name: "bob",
+	// }
+	// fmt.Println(bob)
+
+	// var
+	// person.name = "bob"
+	// person.age = 50
+	// person.pet = "dog"
+
+	// pet := struct {
+	// 	name string
+	// 	kind string
+	// }{
+	// 	name: "Fido",
+	// 	kind: "dog",
+	// }
+	// var firstPerson struct {
+	// 	name string
+	// 	age  int
+	// }
+	// var secondPerson struct {
+	// 	name string
+	// 	age  int
+	// }
+	// var thirdPerson struct {
+	// 	age  int
+	// 	name string
+	// }
+	// var thirdPerson struct {
+	// 	firstName string
+	// 	age       int
+	// }
+	// var fifthPerson struct {
+	// 	name          string
+	// 	age           int
+	// 	favoriteColor string
+	// }
+
 }
