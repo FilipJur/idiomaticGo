@@ -178,4 +178,5 @@ func main() {
 	// 	favoriteColor string
 	// }
 
+	exercises()
 }

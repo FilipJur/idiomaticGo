@@ -2,10 +2,6 @@ package main
 
 import "fmt"
 
-func main() {
-	exercises()
-}
-
 func exercises() {
 	exercise1()
 	exercise2()
