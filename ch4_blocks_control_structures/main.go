@@ -243,4 +243,6 @@ func main() {
 	// 	fmt.Println("Do complicated stuff no matter why we left the loop")
 	// 	fmt.Println(a)
 
+	// EXERCISES!!!!!
+	exercisesCh4()
 }
